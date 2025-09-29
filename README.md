@@ -1,4 +1,4 @@
-# 👋 Hi, I'm DelawareX  
+# 👋 Hi, I'm Jean Franco  
 
 💻 Passionate developer who enjoys building from backend APIs to fun Minecraft plugins.  
 🚀 Always learning, experimenting, and sharing my projects here on GitHub.  
@@ -34,7 +34,7 @@
 ## 🎯 Featured Projects  
 
 - ⚔️ **FutureCore** – Minecraft plugin adding item stats & abilities.  
-- 🎟️ **TicketSpot** – Movie booking app with React + Spring Boot.  
+- 🎟️ **BACK_TIENDA** – Movie booking app with Thymeleaf + Spring Boot.  
 - 🌐 Flask microservices for quick prototyping.  
 
 ---
