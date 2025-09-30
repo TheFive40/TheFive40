@@ -42,4 +42,4 @@
 
 ## 📫 Connect with me  
 
-[![Gmail Badge](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:tuemail@gmail.com)  
+[![Gmail Badge](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:jeanf2805@gmail.com)  
